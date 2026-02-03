@@ -1,8 +1,8 @@
-📁 File Organizer
+# 📁 File Organizer
 
 - A simple browser-based file organizer that helps users upload, categorize, preview, and rename files for better local organization.
 
-✨ Features
+## ✨ Features
 
 - Upload multiple files directly in the browser
 
@@ -16,7 +16,7 @@
 
 - Clean and minimal user interface
 
-🛠 Built With
+## 🛠 Built With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
 </p>
 
-🚀 How It Works
+## 🚀 How It Works
 
 - Upload files using the file input
 
@@ -34,7 +34,7 @@
 
 - Metadata is saved locally so files stay organized during the session
 
-📂 Use Case
+## 📂 Use Case
 
 - This project is designed to practice:
 
