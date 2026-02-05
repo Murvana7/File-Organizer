@@ -1,6 +1,6 @@
 # 📁 File Organizer
 
-- A simple browser-based file organizer that helps users upload, categorize, preview, and rename files for better local organization.
+A simple browser-based file organizer that helps users upload, categorize, preview, and rename files for better local organization.
 
 ## ✨ Features
 
